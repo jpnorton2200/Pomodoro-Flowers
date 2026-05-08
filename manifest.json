@@ -1,0 +1,26 @@
+{
+  "name": "Alpine Wildflower Garden - Pomodoro Timer",
+  "short_name": "Alpine Garden",
+  "description": "Grow beautiful Colorado alpine wildflowers while staying productive with the Pomodoro technique",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8f4f0",
+  "theme_color": "#e8f4f0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "lifestyle"],
+  "screenshots": []
+}
